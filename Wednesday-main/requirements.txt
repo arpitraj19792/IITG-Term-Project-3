@@ -1,0 +1,13 @@
+# --- Voice Input (only used when use_voice_mode is True in config.json) ---
+SpeechRecognition==3.10.0
+pyaudio
+
+# --- Voice Output ---
+piper-tts
+
+# --- GUI ---
+PyQt6
+
+# --- Action (OS automation) ---
+AppOpener
+PyGetWindow
